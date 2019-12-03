@@ -1,0 +1,8 @@
+{
+  "email": "YourEmail",
+  "globalApiKey": "YourAPIKey",
+  "zoneId": "YourZoneID",
+  "ipProvider": "http://ipv4.icanhazip.com",
+  "domain": "YourDomain",
+  "updateInterval": "60"
+}
