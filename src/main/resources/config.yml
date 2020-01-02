@@ -1,0 +1,6 @@
+emailAddress: youremail@youdomain.com
+zoneId: yourZoneId
+globalApiKey: yourApiKey
+domainList:
+- example.com
+- sub.example.com
